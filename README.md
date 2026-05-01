@@ -24,6 +24,14 @@
   </a>
 </h3>
 
+<br>
+
+<a href="https://vesak-dansala.vercel.app/">
+  <img src="https://image.thum.io/get/width/1000/crop/600/https://vesak-dansala.vercel.app/" alt="Site Live Preview" width="80%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 0, 0, 0.4);" />
+</a>
+
+<br><br>
+
 [Explore The Project](#-about-the-project) • [How It Works](#-how-the-simulation-works) • [Key Features](#-key-features) • [Privacy](#-privacy--safety)
 
 </div>
