@@ -27,7 +27,7 @@
 <br>
 
 <a href="https://vesak-dansala.vercel.app/">
-  <img src="https://image.thum.io/get/width/1000/crop/600/https://vesak-dansala.vercel.app/" alt="Site Live Preview" width="80%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 0, 0, 0.4);" />
+  <img src="https://api.microlink.io/?url=https://vesak-dansala.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Site Live Preview" width="80%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 0, 0, 0.4);" />
 </a>
 
 <br><br>
