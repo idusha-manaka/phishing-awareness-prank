@@ -14,15 +14,21 @@
   <img src="https://img.shields.io/badge/Security_Awareness-brightgreen?style=for-the-badge&logo=spring-security&logoColor=white" alt="Security Awareness" />
 </p>
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=idusha-manaka.phishing-awareness-prank&countColor=%23FF0000" alt="Visitors" />
+</p>
+
 <h3>
-  <a href="https://vesak-dansala.vercel.app/">🔴 TRY THE LIVE DEMO HERE 🔴</a>
+  <a href="https://vesak-dansala.vercel.app/">
+    <img src="https://img.shields.io/badge/🔴_TRY_THE_LIVE_DEMO_HERE_🔴-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </h3>
 
 [Explore The Project](#-about-the-project) • [How It Works](#-how-the-simulation-works) • [Key Features](#-key-features) • [Privacy](#-privacy--safety)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ## 🧐 About the Project
 
@@ -34,7 +40,7 @@ By mimicking the exact flow of a real-world phishing scam, this simulator tricks
 
 > 🚨 **Experience it yourself:** [https://vesak-dansala.vercel.app/](https://vesak-dansala.vercel.app/) *(Don't worry, it's 100% safe!)*
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ## 🚀 How the Simulation Works (The User Journey)
 
@@ -81,7 +87,7 @@ After the adrenaline rush, the screen transitions to an educational dashboard. I
 </ul>
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ## ✨ Key Features
 
@@ -93,7 +99,7 @@ After the adrenaline rush, the screen transitions to an educational dashboard. I
 | **Live Device Fingerprinting** | Uses `ipify` and `User-Agent` parsing to display real user data for shock value. |
 | **Zero Dependencies** | Built entirely with `Vanilla JS`. No heavy frameworks or external libraries. |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ## 💻 Technology Stack
 
@@ -112,7 +118,7 @@ After the adrenaline rush, the screen transitions to an educational dashboard. I
 - **Logic & DOM Manipulation:** `Vanilla JavaScript` (ES6+)
 - **Graphics:** Inline `SVG` and `HTML5 Canvas`
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ## 🗄️ Privacy & Safety: "Is this safe?"
 
@@ -122,13 +128,13 @@ After the adrenaline rush, the screen transitions to an educational dashboard. I
 * 🛡️ **No Malware:** It is impossible for this website to delete files, hack a phone, or access a photo gallery. It relies entirely on visual tricks and JavaScript animations.
 * 👁️ **Local IP Fetching:** The IP address shown during the prank is fetched by the user's browser for display purposes only. It is **never** logged or sent to the developer.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ## ⚠️ Disclaimer
 
 > This project was created **strictly for educational purposes, cybersecurity awareness, and harmless pranking**. The developer assumes no responsibility for any misuse, emotional distress, or damage caused by hosting or sharing this application. Always ensure your audience understands it is a prank after the sequence ends.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Think+Before+You+Click.;Stay+Safe+Online." alt="Typing SVG" />
