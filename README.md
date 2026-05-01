@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Security_Awareness-brightgreen?style=for-the-badge&logo=spring-security&logoColor=white" alt="Security Awareness" />
 </p>
 
+<h3>
+  <a href="https://vesak-dansala.vercel.app/">🔴 TRY THE LIVE DEMO HERE 🔴</a>
+</h3>
+
 [Explore The Project](#-about-the-project) • [How It Works](#-how-the-simulation-works) • [Key Features](#-key-features) • [Privacy](#-privacy--safety)
 
 </div>
@@ -27,6 +31,8 @@ Social media platforms are frequently flooded with malicious links promising **"
 > **Our Mission:** To fight back through education. 
 
 By mimicking the exact flow of a real-world phishing scam, this simulator tricks the user into believing they are about to receive `50GB of free data`. However, instead of stealing their information, it delivers a harmless but impactful "scare" (a simulated device hack), followed by a crucial lesson on cybersecurity.
+
+> 🚨 **Experience it yourself:** [https://vesak-dansala.vercel.app/](https://vesak-dansala.vercel.app/) *(Don't worry, it's 100% safe!)*
 
 ---
 
